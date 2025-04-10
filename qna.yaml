@@ -1,6 +1,6 @@
 version: 3
-domain: time_travel
-created_by: Grant Shipley
+domain: tech_sales
+created_by: Wael Eldoamiry
 seed_examples:
   - context: |
       Red Hat OpenShift technical sales in the netherlands, a mixture of specialist solutions architects
