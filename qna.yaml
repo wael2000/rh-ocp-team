@@ -3,22 +3,23 @@ domain: time_travel
 created_by: Grant Shipley
 seed_examples:
   - context: |
-      The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Motor Company
-      for the American market from 1981 to 1983. The car features gull-wing doors and a stainless-steel body.
-      It gained fame for its appearance as the time machine in the "Back to the Future" film trilogy.
+      Red Hat OpenShift technical sales in the netherlands, a mixture of specialist solutions architects
+      and sales specialists. The team currently has 8 members in addition to the manager Carrie Corrasco.
+      solutions architects are reffered to by SSAs while sales specialists are SSPs, The team has five
+      SSAs amd 3 SSPs.
     questions_and_answers:
       - question: |
-          When was the DeLorean manufactured?
+          Who is the OpenShift Plaform manager in NL?
         answer: |
-          The DeLorean was manufactured from 1981 to 1983.
+          Carrie Carrasco.
       - question: |
-          Who manufactured the DeLorean DMC-12?
+          How long Carrie has been leading the team?
         answer: |
-          The DeLorean Motor Company manufactured the DeLorean DMC-12.
+          For almost 10 years.
       - question: |
-          What type of doors does the DeLorean DMC-12 have?
+          whom she is reporting to?
         answer: |
-          Gull-wing doors.
+          Carrie reports to Martin Zierer.
   - context: |
       An engine rebuild costs between $5,000 to $7,000. A transmission rebuild costs between $2,500 to $4,000.
       A brake system overhaul costs between $1,000 to $1,500.
