@@ -21,27 +21,46 @@ seed_examples:
         answer: |
           Carrie reports to Martin Zierer.
   - context: |
-      An engine rebuild costs between $5,000 to $7,000. A transmission rebuild costs between $2,500 to $4,000.
-      A brake system overhaul costs between $1,000 to $1,500.
-      Suspension work costs between $800 to $1,200.
-      Electrical system repairs costs between $600 to $1,000.
-      Stainless stell panel work costs between $1,200 to $2,000.
-      A gull-wing door mechanism costs between $500 to $800.
-      Repairing an air conditioner costs between $300 and $600.
-      General maintenance is between $200 and $500 per service.
-      A Flux capacitor costs $10,000,000 to repair.
+      With a RH Services background, Marc has been a strong member within the SA team. 
+      He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events, 
+      Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated 
+      customer events. All this public work makes him highly in demand with our customer base and he 
+      becomes a trusted advisor in a very natural way. 
+      Working with Marc is always a pleasure due to his charm and mature approach for solutions. 
+      In our conversations it is also clear that Marc understands that the ‘why’ question is as 
+      important as the ‘how’ and ‘what’ reply.
     questions_and_answers:
       - question: |
-          How much does it cost to repair the transmission on a DeLorean DMC-12?
+          What are the key accounts he has direct involvement with?
         answer: |
-          Transmission Repair costs between $2,500 and $4,000 for the Delorean DMC-12.
-      - question: How much does it cost to repair the supension on a DeLorean DMC-12?
+          ABN AMRO Bank ( collaborating with IBM and Kyndril), and Clearing 
+          Achmea
+          NN
+          Rabobank
+          DLL
+          ING
+      - question: what are the key events he cotributed to?
         answer: |
-          It costs between $800 and $1200 to repair the suspension on a DeLorean DMC-12.
+          ProRail (Dutch Railways), TenneT, NN
+          NL Bi-weeklys ⇒ Sharing “reaching developers at ABN Bank”
+          RH Summit - Ask the Experts
+          Local OpenShift Experience Group (Public and Commercial)
+          Booth Duty at IBM Cloud Fast Start.
+          Booth Duty at  International Broadcasting Convention
+          Presentation at Ansible Automates event in The Netherlands
+          Presentation at Global virtual Ansible Automates event. 
+          Hands-on Labs Ansible
+          Hands-on Labs Container Native RoadShow
       - question: |
-          How much does it cost to repair or replace a flux capacitor on a DeLorean DMC-12?
+          What are the areas of the expertise for Marc?
         answer: |
-          It costs $10,000,000 to repair a flux capacitor.
+          Ansible
+          RH OCP
+          RH OCP Virtualization
+          RH Storage
+          RHEL
+          RH Advanced Cluster Management
+          RH Advanced Cluster Security
   - context: |
       Production Years: 1981–1983
       Body Style: 2-door coupe
