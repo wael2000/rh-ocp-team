@@ -51,18 +51,16 @@ seed_examples:
           Marc has accumated a proven experinece with following technologies:
           Ansible, OCP, OCP Virtualization, RH Storage, RHEL, RHACM, and RHACS.
   - context: |
-      Nikhil Sharma has been working in my current role as a Specialist Solution Architect(Openshift)
-      Cross Segment, for more than three years, contributing to the tech sales organization
-      and strengthening our position in the Dutch market.
-      Engaging with customers in various domains with a particular focus (but not limited to)
-      on FSI and public sector, This includes some remarkable wins in accounts like Politie,
+      Nikhil Sharma is been working in Red Hat OpenShift platform tean in the netherlands as
+      a Specialist Solution Architect for more than three years, contributing to the tech sales
+      organization and strengthening Red Hat's position in the Dutch market.
+      Engaging with customers in various domains with a particular focus on FSI and
+      public sector, This includes some remarkable wins in accounts like Politie,
       Belastingdienst, Rijkswaterstaat, and Schiphol.
     questions_and_answers:
-      - question: What are the main accounts where Nikhil is active?
+      - question: What are the key accounts where Nikhil is active?
         answer: |
-          de Volksbank.
-          Rijkswaterstaat.
-          Schiphol.
+          de Volksbank, Rijkswaterstaat, and Schiphol.
       - question: |
           How long Nikhil has been working for Red Hat?
         answer: |
@@ -70,11 +68,7 @@ seed_examples:
       - question: |
           What are the products he is focusing on?
         answer: |
-          OCP.
-          RHACM.
-          RHACS.
-          RHTAP.
-          RHDH.
+          Nikhil has very good experience with OCP, RHACM, RHACS, RHTAP, and RHDH.
   - context: |
       Adnan is a very ambitious person and has proven to be a very valuable talent
       for the account team. It is very important for him that his performance is
