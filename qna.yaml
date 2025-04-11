@@ -154,6 +154,6 @@ document_outline: |
   Details on Red Hat OpenShift platform team in the netherlands.
 document:
   repo: https://github.com/wael2000/rh-ocp-team.git
-  commit: cbe7839174ff807924654f5616e91624548828f3
+  commit: 481fa68246b1614ffefb27aa94c3c140220e7236
   patterns:
     - data.md
