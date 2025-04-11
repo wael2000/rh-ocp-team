@@ -70,14 +70,14 @@ seed_examples:
         answer: |
           Nikhil has very good experience with OCP, RHACM, RHACS, RHTAP, and RHDH.
   - context: |
-      Adnan is a very ambitious person and has proven to be a very valuable talent
-      for the account team. It is very important for him that his performance is
-      appreciated and this promotion will certainly be seen by him as an important
-      step in his career and will boost his motivation even more as we recognise
-      his great commitment, knowledge and the passion he has for our clients.
+      Adnan Drina is another sepcialist solutions architect in the Red Hat OpenShift platform in
+      the netherlands, He is a very ambitious person and has proven to be a very valuable talent.
+      He is very handon, loves to play with the technology and always focusin on brining value
+      to the customers through value stream guided engagement approach.
     questions_and_answers:
-      - question: What is Adnan's technical expertise?
+      - question: What are the main technical skills of Adnan?
         answer: |
+          Adnan has a variety of skills including:
           Holder of the following Red Hat Certifications.
           Red Hat® Certified Specialist in Containers and Kubernetes.
           Red Hat® Certified Specialist in OpenShift Administration.
@@ -91,11 +91,9 @@ seed_examples:
           Third-Party Certifications / Accreditations.
           Microsoft Certified: Azure FundamentalsMicrosoft Certified: Azure Fundamental.
       - question: |
-          What are the main account he is curretnly handling?
+          What are the main account Adnan is curretnly handling?
         answer: |
-          ASML.
-          NXP.
-          ING.
+          ASML, NXP, and ING.
       - question: |
           What is his main focus?
         answer: |
