@@ -33,20 +33,30 @@ Presentation at Global virtual Ansible Automates event.
 Hands-on Labs Ansible
 Hands-on Labs Container Native RoadShow
 
+Adnan Drina
 
-Specifications
+Adnan is a very ambitious person and has proven to be a very valuable talent for the account team. It is very important for him that his performance is appreciated and this promotion will certainly be seen by him as an important step in his career and will boost his motivation even more as we recognise his great commitment, knowledge and the passion he has for our clients.
 
-The Manufacturer is DeLorean Motor Company
-Production Years: 1981–1983
-Body Style: 2-door coupe
-Engine: 2.85 L V6 PRV engine
-Transmission 5-speed manual or 3-speed automatic
-Horsepower 130 hp
-153 lb-ft
-Approximately 8.8 seconds
-110 mph
-2,712 lb (1,230 kg)
-Flux capacitor fitted for time travel
+Adnan is on an expert level in: 
+Openshift/Kubernetes, RHEL, Application Services & Cloud Native Development, ARO.
+Holder of the following Red Hat Certifications.
+Red Hat® Certified Specialist in Containers and Kubernetes.
+Red Hat® Certified Specialist in OpenShift Administration.
+Red Hat® Certified Specialist in OpenShift Application Development.
+Red Hat® Technology Thought Leadership Accelerator Graduate.
+Red Hat Portfolio Practitioner - Foundational.
+Red Hat OpenShift: Seller.
+Red Hat Ansible Automation Platform: Seller.
+Red Hat Cloud Services: Seller.
+Certified Customer Success Manager (CCSM) Level 1.
+Third-Party Certifications / Accreditations.
+Microsoft Certified: Azure FundamentalsMicrosoft Certified: Azure Fundamental.
+Exemplify how the associate supports Red Hat promotion criteria :
+Andan is at an expert level, experienced with complex customers and driving technical strategy within top accounts such as ASML and NXP. He shows a high level of product knowledge in Application and Cloud Platform products and demonstrates continued learning and growth. Adnan is a graduate of TTLA and is always focused on business results. The recent HCS and largest deal in NL with ASML, certainly has Adnan's contribution, as an HCS deal depends on the thrust and technical continuity Red Hat has to prove to our customer. At ASML, being one of our most complex and technically high demanding customers, Adnan led the RHEL opportunity to a technical win in good order, which resulted in RHEL is now the standard OS in the multimillion costing Twinsscan lithography chip machine. This attached document is Adnan's application for Associate Principal Solutions Architect and shows his experience and how he meets the promotion criteria I completely endorse.
+Exemplify how the associate supports Red Hat core values :
+The earlier mentioned application for Associate Principal doc and this doc shows some examples how Product knowledge, external impact, business impact have been developed and performed by Adnan. Furthermore, Adnan is committed to supporting his colleagues and frequently shares his knowledge on the latest technologies and best practices. To support the SA organisation in the Netherlands, Adnan has prepared a series of short demonstrations that can be used by any SA in the team to showcase the OpenShift development experience. https://github.com/RedHatNetherlandsSA/ocp-devex-demos
+Adnan also holds himself accountable to his colleagues by mentoring new team members and providing ongoing support to his colleagues. He has helped onboard new hires in the Solutions Architect team and played a notable role during the incubation phase of the EMEA Application Deployment SSA team. He is also an active participant in the Red Hat Mentoring Programme.
+Adnan is a strong advocate of fostering innovation within his team. He actively participates in internal SME groups and collaborates with colleagues from different departments. His penchant for exploring new ideas has led to the implementation of several innovative customer engagements.
 
 Here are some common repairs and costs.
 
