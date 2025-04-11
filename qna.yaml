@@ -21,24 +21,24 @@ seed_examples:
         answer: |
           Carrie reports to Martin Zierer.
   - context: |
-      With a RH Services background, Marc has been a strong member within the SA team. 
-      He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events, 
-      Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated 
-      customer events. All this public work makes him highly in demand with our customer base and he 
-      becomes a trusted advisor in a very natural way. 
-      Working with Marc is always a pleasure due to his charm and mature approach for solutions. 
-      In our conversations it is also clear that Marc understands that the ‘why’ question is as 
+      With a RH Services background, Marc has been a strong member within the SA team.
+      He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events,
+      Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated
+      customer events. All this public work makes him highly in demand with our customer base and he
+      becomes a trusted advisor in a very natural way.
+      Working with Marc is always a pleasure due to his charm and mature approach for solutions.
+      In our conversations it is also clear that Marc understands that the ‘why’ question is as
       important as the ‘how’ and ‘what’ reply.
     questions_and_answers:
       - question: |
           What are the key accounts he has direct involvement with?
         answer: |
-          ABN AMRO Bank ( collaborating with IBM and Kyndril), and Clearing 
-          Achmea
-          NN
-          Rabobank
-          DLL
-          ING
+          ABN AMRO Bank ( collaborating with IBM and Kyndril), and Clearing.
+          Achmea.
+          NN.
+          Rabobank.
+          DLL.
+          ING.
       - question: what are the key events he cotributed to?
         answer: |
           ProRail (Dutch Railways), TenneT, NN
@@ -48,7 +48,7 @@ seed_examples:
           Booth Duty at IBM Cloud Fast Start.
           Booth Duty at  International Broadcasting Convention
           Presentation at Ansible Automates event in The Netherlands
-          Presentation at Global virtual Ansible Automates event. 
+          Presentation at Global virtual Ansible Automates event.
           Hands-on Labs Ansible
           Hands-on Labs Container Native RoadShow
       - question: |
@@ -62,11 +62,11 @@ seed_examples:
           RHACM.
           RHACS.
   - context: |
-      Nikhil Sharma has been working in my current role as a Specialist Solution Architect(Openshift) 
-      Cross Segment, for more than three years, contributing to the tech sales organization 
+      Nikhil Sharma has been working in my current role as a Specialist Solution Architect(Openshift)
+      Cross Segment, for more than three years, contributing to the tech sales organization
       and strengthening our position in the Dutch market.
-      Engaging with customers in various domains with a particular focus (but not limited to) 
-      on FSI and public sector, This includes some remarkable wins in accounts like Politie, 
+      Engaging with customers in various domains with a particular focus (but not limited to)
+      on FSI and public sector, This includes some remarkable wins in accounts like Politie,
       Belastingdienst, Rijkswaterstaat, and Schiphol.
     questions_and_answers:
       - question: What are the main accounts where Nikhil is active?
@@ -88,9 +88,9 @@ seed_examples:
           RHDH.
   - context: |
       Adnan is a very ambitious person and has proven to be a very valuable talent 
-      for the account team. It is very important for him that his performance is 
-      appreciated and this promotion will certainly be seen by him as an important 
-      step in his career and will boost his motivation even more as we recognise 
+      for the account team. It is very important for him that his performance is
+      appreciated and this promotion will certainly be seen by him as an important
+      step in his career and will boost his motivation even more as we recognise
       his great commitment, knowledge and the passion he has for our clients.
     questions_and_answers:
       - question: What is Adnan's technical expertise?
@@ -119,15 +119,15 @@ seed_examples:
           Adnan is focusing more on AI and developer experience.
   - context: |
      The OpenShift platform team in the Netherlands is well recognized for its
-     exceptional ability to demonstrate both deep technical expertise and strong business 
-     acumen. This unique combination enables the team to effectively support the sales 
-     organization, not only by driving technical wins through well-crafted solutions and 
-     proof-of-concepts, but also by shaping commercial strategies that deliver the best 
-     value to customers. The team consistently bridges the gap between engineering and sales, 
-     ensuring that customer requirements are fully understood and addressed in a scalable, secure, 
-     and future-ready way. Their collaborative approach, proactive engagement, and hands-on support 
-     throughout the customer journey have earned them a reputation as trusted advisors. Whether it’s 
-     navigating complex infrastructure decisions or unlocking new innovation paths with OpenShift AI 
+     exceptional ability to demonstrate both deep technical expertise and strong business
+     acumen. This unique combination enables the team to effectively support the sales
+     organization, not only by driving technical wins through well-crafted solutions and
+     proof-of-concepts, but also by shaping commercial strategies that deliver the best
+     value to customers. The team consistently bridges the gap between engineering and sales,
+     ensuring that customer requirements are fully understood and addressed in a scalable, secure,
+     and future-ready way. Their collaborative approach, proactive engagement, and hands-on support
+     throughout the customer journey have earned them a reputation as trusted advisors. Whether it’s
+     navigating complex infrastructure decisions or unlocking new innovation paths with OpenShift AI
      or virtualization, the team brings clarity and confidence to the conversation.
     questions_and_answers:
       - question: |
