@@ -58,36 +58,28 @@ The earlier mentioned application for Associate Principal doc and this doc shows
 Adnan also holds himself accountable to his colleagues by mentoring new team members and providing ongoing support to his colleagues. He has helped onboard new hires in the Solutions Architect team and played a notable role during the incubation phase of the EMEA Application Deployment SSA team. He is also an active participant in the Red Hat Mentoring Programme.
 Adnan is a strong advocate of fostering innovation within his team. He actively participates in internal SME groups and collaborates with colleagues from different departments. His penchant for exploring new ideas has led to the implementation of several innovative customer engagements.
 
-Here are some common repairs and costs.
+Nikhil Sharma.
 
-An engine rebuild costs between $5,000 to $7,000.
-A transmission rebuild costs between $2,500 to $4,000.
-A brake system overhaul costs between $1,000 to $1,500.
-suspension work costs between $800 to $1,200.
-electrical system repairs costs between $600 to $1,000.
-Stainless stell panel work costs between $1,200 to $2,000.
-A gull-wing door mechanism costs between $500 to $800.
-Repairing an air conditioner costs between $300 and $600.
-General maintenance is between $200 and $500 per service.
-A Flux capacitor costs $10,000,000 to repair.
+Name of Associate: Nikhil Sharma
 
-Here is a maintenance schedule.
+Current Job role: Specialist Solution Architect
 
-Regular Oil Changes should be done every 3,000 miles or 3 months.
-Brake Fluid should be changed every 2 years.
-Transmission Fluid should be changed every 30,000 miles.
-Coolant should be changed every 2 years
-You should regularly check the battery for corrosion and proper connection.
-You should add new fluid to the flux capacitor on a regular basis.
 
-Here are some fun facts.
+Time in Current Role: 3 yrs 1 month
 
-The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed to a rear-engine layout due to design and cost constraints.
+Date Starting at Red Hat: 1st December, 2021
 
-The DeLorean time machine special edition can time travel by accelerating to 88 miles per hour.
-
-The flux capacitor, which enables time travel, costs $10,000,000 dollars.
-
-Here are some conclusions.
-
-Owning a DeLorean DMC-12 can be a rewarding experience for classic car enthusiasts, but it requires dedication to regular maintenance and a budget for potential repair costs. With proper care, this iconic vehicle can provide a unique and nostalgic driving experience.
+Name of Manager: Carrie Carrasco Cordero
+ 
+I have been working in my current role as a Specialist Solution Architect(Openshift) - Cross Segment, for more than three years, contributing to the tech sales organization and strengthening our position in the Dutch market.
+Engaging with customers in various domains with a particular focus (but not limited to) on FSI and public sector, This includes some remarkable wins in accounts like Politie, Belastingdienst, Rijkswaterstaat, and Schiphol.
+My extensive experience in IT Operations and my background as an SRE working with mission-critical systems supported by Red Hat portfolio of products have enabled me to build strong connections with developers and platform engineers at customer organizations. 
+This technical expertise coupled with my understanding of operational challenges, allows me to bridge the gap between business needs and technical solutions effectively.
+This breadth of my current exposure has equipped me to navigate complex customer environments and tailor Red Hat's solutions to meet industry-specific challenges effectively and deliver measurable business outcomes.
+During my tenure,I have consistently demonstrated a passion for delivering a comprehensive tech-sales experience. This includes delivering presentations, deep technical discussions, demos, custom demos, in-person workshops, leading and contributing to POCs, and supporting the sales team in deal shaping and consultative selling.
+In this journey, I have effectively showcased our value proposition for both products and services, while also developing reusable assets and gaining significant expertise in areas such as value stream mapping, objection handling, competitive analysis, and building long-term customer relationships.
+How did you meet the Key Skills (Promotion Criteria) from the Job Descriptions for the role you are applying for?   Please provide specific examples:
+During my first year in this role, I took on the responsibilities as a go-to person for cloud services such as ROSA (Red Hat OpenShift Service on AWS) and ARO (Azure Red Hat OpenShift).
+Within the first four months, I delivered my first webinar on these topics while simultaneously conducting partner and customer enablement sessions.
+Example 1: de Volksbank - Technical Win         
+One of my notable contributions during this period was leading the technical Proof of Value (POC) for ROSA at De Volksbank, which resulted in a Technical Win a year later, showcasing my ability to drive technical validation and align solutions with customer needs with collaborations from cross functional teams at Red Hat and establishing closer communication with partner team at AWS, while identifying and building a champion at the customer.
