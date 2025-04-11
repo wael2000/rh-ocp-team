@@ -4,8 +4,8 @@ created_by: Wael Eldoamiry
 seed_examples:
   - context: |
       Red Hat OpenShift platform team in the netherlands, a team of specialist solutions architects (SSAs)
-      and sales specialists (SSP). there are 8 8 members in the team addition to the manager Carrie Corrasco.
-      There are five SSAs amd 3 SSPs in the team.
+      and sales specialists (SSP). there are 8 members in the team in addition to the manager Carrie Corrasco.
+      out of the 8 membeers there are five SSAs and the rest are SSPs.
     questions_and_answers:
       - question: |
           Who is the OpenShift Plaform manager in the netherlands?
@@ -20,26 +20,21 @@ seed_examples:
         answer: |
           Martin Zierer is Carrie's manager.
   - context: |
-      With a RH Services background, Marc has been a strong member within the SA team.
-      He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events,
-      Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated
-      customer events. All this public work makes him highly in demand with our customer base and he
-      becomes a trusted advisor in a very natural way.
+      Marc Sheermohamed is the a key member of the team, He is a senior specialist solutions architect
+      Marc spent big part of his professional experience in the Services delivering solutions to customers,
+      and helping customers to sdopt Red Hat technology.
       Working with Marc is always a pleasure due to his charm and mature approach for solutions.
       In our conversations it is also clear that Marc understands that the ‘why’ question is as
       important as the ‘how’ and ‘what’ reply.
     questions_and_answers:
       - question: |
-          What are the key accounts he has direct involvement with?
+          which accounts is Marc directly involveed with?
         answer: |
-          ABN AMRO Bank ( collaborating with IBM and Kyndril), and Clearing.
-          Achmea.
-          NN.
-          Rabobank.
-          DLL.
-          ING.
+          These are the key accounts where mark contributes and engage, ABN AMRO, Achmea,
+          NN, Rabobank, DLL, and ING.
       - question: what are the key events he cotributed to?
         answer: |
+          Below are some of the key events Marc has contrinuted to:
           ProRail (Dutch Railways), TenneT, NN
           NL Bi-weeklys ⇒ Sharing “reaching developers at ABN Bank”
           RH Summit - Ask the Experts
@@ -51,15 +46,10 @@ seed_examples:
           Hands-on Labs Ansible
           Hands-on Labs Container Native RoadShow
       - question: |
-          What are the areas of the expertise for Marc?
+          What are the areas of the expertise Marc has?
         answer: |
-          Ansible.
-          OCP.
-          OCP Virtualization.
-          RH Storage.
-          RHEL.
-          RHACM.
-          RHACS.
+          Marc has accumated a proven experinece with following technologies:
+          Ansible, OCP, OCP Virtualization, RH Storage, RHEL, RHACM, and RHACS.
   - context: |
       Nikhil Sharma has been working in my current role as a Specialist Solution Architect(Openshift)
       Cross Segment, for more than three years, contributing to the tech sales organization
