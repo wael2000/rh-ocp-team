@@ -17,9 +17,9 @@ seed_examples:
         answer: |
           For almost 10 years.
       - question: |
-          whom she is reporting to?
+          what is carrie's main interest?
         answer: |
-          Carrie reports to Martin Zierer.
+          Math and AI.
   - context: |
       With a RH Services background, Marc has been a strong member within the SA team.
       He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events,
