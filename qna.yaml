@@ -87,26 +87,36 @@ seed_examples:
           RHTAP.
           RHDH.
   - context: |
-      Here is a maintenance schedule.
-      Regular Oil Changes should be done every 3,000 miles or 3 months.
-      Brake Fluid should be changed every 2 years.
-      Transmission Fluid should be changed every 30,000 miles.
-      Coolant should be changed every 2 years
-      You should regularly check the battery for corrosion and proper connection.
-      You should add new fluid to the flux capacitor on a regular basis.
+      Adnan is a very ambitious person and has proven to be a very valuable talent 
+      for the account team. It is very important for him that his performance is 
+      appreciated and this promotion will certainly be seen by him as an important 
+      step in his career and will boost his motivation even more as we recognise 
+      his great commitment, knowledge and the passion he has for our clients.
     questions_and_answers:
-      - question: How often should you change the oil on a DeLorean DMC-12?
+      - question: What is Adnan's technical expertise?
         answer: |
-          You should change the oil ever 3,000 miles or every 3 months. Whichever comes first.
+          Holder of the following Red Hat Certifications.
+          Red Hat® Certified Specialist in Containers and Kubernetes.
+          Red Hat® Certified Specialist in OpenShift Administration.
+          Red Hat® Certified Specialist in OpenShift Application Development.
+          Red Hat® Technology Thought Leadership Accelerator Graduate.
+          Red Hat Portfolio Practitioner - Foundational.
+          Red Hat OpenShift: Seller.
+          Red Hat Ansible Automation Platform: Seller.
+          Red Hat Cloud Services: Seller.
+          Certified Customer Success Manager (CCSM) Level 1.
+          Third-Party Certifications / Accreditations.
+          Microsoft Certified: Azure FundamentalsMicrosoft Certified: Azure Fundamental.
       - question: |
-          How often should changed the blake fluid on a DeLorean DMC-12?
+          What are the main account he is curretnly handling?
         answer: |
-          You should change the blake fluid every two years.
+          ASML.
+          NXP.
+          ING.
       - question: |
-          What should you check on a Delorean DMC-12 as part of a regular maintenance schedule?
+          What is his main focus?
         answer: |
-          You should consider regular oil changes, blake fluid replacement, transmission fluid, battery,
-          flux capacitor and collant.
+          Adnan is focusing more on AI and developer experience.
   - context: |
       Here are some fun facts about the DeLorean DMC-12:
       The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed
