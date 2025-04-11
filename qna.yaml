@@ -3,23 +3,22 @@ domain: tech_sales
 created_by: Wael Eldoamiry
 seed_examples:
   - context: |
-      Red Hat OpenShift technical sales in the netherlands, a mixture of specialist solutions architects
-      and sales specialists. The team currently has 8 members in addition to the manager Carrie Corrasco.
-      solutions architects are reffered to by SSAs while sales specialists are SSPs, The team has five
-      SSAs amd 3 SSPs.
+      Red Hat OpenShift platform team in the netherlands, a team of specialist solutions architects (SSAs)
+      and sales specialists (SSP). there are 8 8 members in the team addition to the manager Carrie Corrasco.
+      There are five SSAs amd 3 SSPs in the team.
     questions_and_answers:
       - question: |
-          Who is the OpenShift Plaform manager in NL?
+          Who is the OpenShift Plaform manager in the netherlands?
         answer: |
-          Carrie Carrasco.
+          Carrie Carrasco is the OpenShift Plaform manager in NL.
       - question: |
-          How long Carrie has been leading the team?
+          How long Carrie has been the OpenShift Plaform manager in the netherlands?
         answer: |
           For almost 10 years.
       - question: |
-          what is carrie's main interest?
+          who is the manager of carrie?
         answer: |
-          Math and AI.
+          Martin Zierer is Carrie's manager.
   - context: |
       With a RH Services background, Marc has been a strong member within the SA team.
       He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events,
