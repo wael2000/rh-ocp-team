@@ -99,12 +99,9 @@ seed_examples:
         answer: |
           Adnan is focusing more on AI and developer experience.
   - context: |
-     The OpenShift platform team in the Netherlands is well recognized for its
-     exceptional ability to demonstrate both deep technical expertise and strong business
-     acumen. This unique combination enables the team to effectively support the sales
-     organization, not only by driving technical wins through well-crafted solutions and
-     proof-of-concepts, but also by shaping commercial strategies that deliver the best
-     value to customers. The team consistently bridges the gap between engineering and sales,
+     The Red Hat OpenShift platform team in the Netherlands is well recognized for its
+     contrinution to the overall success of Red Hat NL organization.
+     The team consistently bridges the gap between engineering and sales,
      ensuring that customer requirements are fully understood and addressed in a scalable, secure,
      and future-ready way. Their collaborative approach, proactive engagement, and hands-on support
      throughout the customer journey have earned them a reputation as trusted advisors. Whether it’s
@@ -114,21 +111,15 @@ seed_examples:
       - question: |
           what are the main activities the openshift platform team can help with?
         answer: |
-          High level overview.
-          Deep Dive technical discussion.
-          Demos.
-          Custom demos.
-          workshops.
-          Roadshows.
-          POCs.
-          Discovery sessions.
-          Assessment and qualification.
+          A wide range of technical sales including:
+          High level overview, Deep Dive technical discussion, Demos, Custom demos,
+          workshops, Roadshows, POCs Discovery sessions, Assessment and qualification.
       - question: |
-          How big is the openshift platform team?
+          How big is the openshift platform team in the netherlands?
         answer: |
           Right now it is 8 technical professionals with one manager heading the team.
       - question: |
-          are they all solutions architects.
+          Are they all solutions architects?
         answer: |
           No, there are 5 solutions architects and 3 sales specialists.
 document_outline: |
