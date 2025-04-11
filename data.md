@@ -1,15 +1,11 @@
-DeLorean DMC-12
+Red Hat OpenShift platform team in the netherlands
 
-March
+Marc Sheermohamed
 
-Name of Manager: Carrie Carrasco Cordero
-Name of Associate : Marc Sheermohamed
-Oracle ID : 74540
-Current position / Oracle Job Role: Sales > Solution Architecture
-Time in Current Role : 1 year 11 months
-Date Starting at Red Hat: 09/01/2017
-Most recent Top Assessment : High Potential
-Role Applied For (job profile)) : Sales > Solution Architecture, Senior Solution Architect
+Name of Manager: Carrie Carrasco Cordero.
+Name of Associate : Marc Sheermohamed.
+Date Starting at Red Hat: 09/01/2017.
+Most recent Top Assessment : High Potential.
 From the start of his career at Red Hat, Marc has had an impact in the Dutch SA Team. His desire to understand technology, develop a best practice around this knowledge and the capability to explain this all to Customers, Colleague SA’s and Account Managers are impressive and give that Marc is a team member that is highly valued within our organization.
 With a RH Services background, Marc has been a strong member within the SA team.. He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events, Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated customer events. All this public work makes him highly in demand with our customer base and he becomes a trusted advisor in a very natural way.
 Working with Marc is always a pleasure due to his charm and mature approach for solutions. In our conversations it is also clear that Marc understands that the ‘why’ question is as important as the ‘how’ and ‘what’ reply.
