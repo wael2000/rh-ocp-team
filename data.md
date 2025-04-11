@@ -36,7 +36,6 @@ Hands-on Labs Container Native RoadShow
 Adnan Drina
 
 Adnan is a very ambitious person and has proven to be a very valuable talent for the account team. It is very important for him that his performance is appreciated and this promotion will certainly be seen by him as an important step in his career and will boost his motivation even more as we recognise his great commitment, knowledge and the passion he has for our clients.
-
 Adnan is on an expert level in: 
 Openshift/Kubernetes, RHEL, Application Services & Cloud Native Development, ARO.
 Holder of the following Red Hat Certifications.
@@ -58,19 +57,13 @@ The earlier mentioned application for Associate Principal doc and this doc shows
 Adnan also holds himself accountable to his colleagues by mentoring new team members and providing ongoing support to his colleagues. He has helped onboard new hires in the Solutions Architect team and played a notable role during the incubation phase of the EMEA Application Deployment SSA team. He is also an active participant in the Red Hat Mentoring Programme.
 Adnan is a strong advocate of fostering innovation within his team. He actively participates in internal SME groups and collaborates with colleagues from different departments. His penchant for exploring new ideas has led to the implementation of several innovative customer engagements.
 
-Nikhil Sharma.
+Nikhil Sharma
 
 Name of Associate: Nikhil Sharma
-
 Current Job role: Specialist Solution Architect
-
-
 Time in Current Role: 3 yrs 1 month
-
 Date Starting at Red Hat: 1st December, 2021
-
 Name of Manager: Carrie Carrasco Cordero
- 
 I have been working in my current role as a Specialist Solution Architect(Openshift) - Cross Segment, for more than three years, contributing to the tech sales organization and strengthening our position in the Dutch market.
 Engaging with customers in various domains with a particular focus (but not limited to) on FSI and public sector, This includes some remarkable wins in accounts like Politie, Belastingdienst, Rijkswaterstaat, and Schiphol.
 My extensive experience in IT Operations and my background as an SRE working with mission-critical systems supported by Red Hat portfolio of products have enabled me to build strong connections with developers and platform engineers at customer organizations. 
