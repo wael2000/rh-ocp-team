@@ -54,36 +54,38 @@ seed_examples:
       - question: |
           What are the areas of the expertise for Marc?
         answer: |
-          Ansible
-          RH OCP
-          RH OCP Virtualization
-          RH Storage
-          RHEL
-          RH Advanced Cluster Management
-          RH Advanced Cluster Security
+          Ansible.
+          OCP.
+          OCP Virtualization.
+          RH Storage.
+          RHEL.
+          RHACM.
+          RHACS.
   - context: |
-      Production Years: 1981–1983
-      Body Style: 2-door coupe
-      Engine: 2.85 L V6 PRV engine
-      Transmission 5-speed manual or 3-speed automatic
-      Horsepower 130 hp
-      153 lb-ft
-      Approximately 8.8 seconds
-      110 mph
-      2,712 lb (1,230 kg)
-      Flux capacitor fitted for time travel and costs $10,000,000
+      Nikhil Sharma has been working in my current role as a Specialist Solution Architect(Openshift) 
+      Cross Segment, for more than three years, contributing to the tech sales organization 
+      and strengthening our position in the Dutch market.
+      Engaging with customers in various domains with a particular focus (but not limited to) 
+      on FSI and public sector, This includes some remarkable wins in accounts like Politie, 
+      Belastingdienst, Rijkswaterstaat, and Schiphol.
     questions_and_answers:
-      - question: What was the production years of the DeLorean DMC-12?
+      - question: What are the main accounts where Nikhil is active?
         answer: |
-          The car was in production from 1981 to 1983.
+          de Volksbank.
+          Rijkswaterstaat.
+          Schiphol.
       - question: |
-          How much horsepower does the DeLorean have?
+          How long Nikhil has been working for Red Hat?
         answer: |
-          It has 130 horsepower.
+          He has been working for Red Hat for 3 years and 6 months.
       - question: |
-          What is the flux capacitor used for in a Delorean DMC-12?
+          What are the products he is focusing on?
         answer: |
-          The flux capacitor is used for time travel capabilities and costs $10,000,000.
+          OCP.
+          RHACM.
+          RHACS.
+          RHTAP.
+          RHDH.
   - context: |
       Here is a maintenance schedule.
       Regular Oil Changes should be done every 3,000 miles or 3 months.
