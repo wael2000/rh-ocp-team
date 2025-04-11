@@ -1,8 +1,42 @@
 DeLorean DMC-12
 
-Overview
+March
 
-The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Motor Company for the American market from 1981 to 1983. The car features gull-wing doors and a stainless-steel body. It gained fame for its appearance as the time machine in the "Back to the Future" film trilogy.
+Name of Manager: Carrie Carrasco Cordero
+Name of Associate : Marc Sheermohamed
+Oracle ID : 74540
+Current position / Oracle Job Role: Sales > Solution Architecture
+Time in Current Role : 1 year 11 months
+Date Starting at Red Hat: 09/01/2017
+Most recent Top Assessment : High Potential
+Role Applied For (job profile)) : Sales > Solution Architecture, Senior Solution Architect
+From the start of his career at Red Hat, Marc has had an impact in the Dutch SA Team. His desire to understand technology, develop a best practice around this knowledge and the capability to explain this all to Customers, Colleague SA’s and Account Managers are impressive and give that Marc is a team member that is highly valued within our organization.
+With a RH Services background, Marc has been a strong member within the SA team.. He is presenting at internal meetings, booth duty at IBM FastStart, RH Tech events, Hands-On Labs, “Ask the Experts” booth duty at RH Summit, and also delivers sessions at Dedicated customer events. All this public work makes him highly in demand with our customer base and he becomes a trusted advisor in a very natural way.
+Working with Marc is always a pleasure due to his charm and mature approach for solutions. In our conversations it is also clear that Marc understands that the ‘why’ question is as important as the ‘how’ and ‘what’ reply.
+His maturity in the Dutch organization and his drive to be successful on all possible levels with customer success as primary focus makes me support his promotion to Senior Solution Architect. 
+Key reason for promotion :
+In the past 2 years, Marc has developed himself as a very important member of the Dutch SA team. This results in the following Highlight Overview:
+Key Accounts with direct involvement:
+ABN AMRO Bank ( collaborating with IBM and Kyndril), and Clearing 
+Achmea
+NN
+Rabobank
+DLL
+ING
+Visible Events
+Dedicated Customer Events for Ansible: 
+ProRail (Dutch Railways), TenneT, NN
+NL Bi-weeklys ⇒ Sharing “reaching developers at ABN Bank”
+RH Summit - Ask the Experts
+Local OpenShift Experience Group (Public and Commercial)
+Technical Events
+Booth Duty at IBM Cloud Fast Start.
+Booth Duty at  International Broadcasting Convention
+Presentation at Ansible Automates event in The Netherlands
+Presentation at Global virtual Ansible Automates event. 
+Hands-on Labs Ansible
+Hands-on Labs Container Native RoadShow
+
 
 Specifications
 
